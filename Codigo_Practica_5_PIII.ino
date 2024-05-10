@@ -1,3 +1,17 @@
+/*
+   Fundacion Kinal
+   Centro educativo tecnico laboral Kinal
+   Quinto perito
+   Quinto electronica
+   Codigo Tecnico: EB5AV 
+   Curso: Taller de electronica digital y reparacion de computadoras I
+   Proyecto: Parte III
+   Dev: Diego Emanuel Yos Pinzón
+   Fecha: 10 de Mayo
+ 
+*/
+
+
 #define push_button 10
 #define buzzer 9
 #define RELE 11 
