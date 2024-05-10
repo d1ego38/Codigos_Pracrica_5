@@ -1,4 +1,4 @@
-*
+/*
    Fundacion Kinal
    Centro educativo tecnico laboral Kinal
    Quinto perito
